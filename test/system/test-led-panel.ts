@@ -1,0 +1,7 @@
+import test from 'ava';
+
+import LEDPanel from '../../src/index';
+
+test.skip('TODO: system-test led-panel', (t) => {
+    t.fail()
+})
